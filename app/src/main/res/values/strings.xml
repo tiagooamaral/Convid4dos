@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Convid4dos</string>
+    <string name="buttonAddListHost">ADICIONAR LISTA DE CONVIDADOS</string>
+    <string name="editNameHost">Insira o nome da noiva/noivo</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>New Age</item>
+        <item>Blues</item>
+    </array>
+</resources>
